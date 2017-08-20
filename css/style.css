@@ -1,0 +1,17 @@
+
+ul li {
+    list-style-type: none;
+}
+ul li i a {
+    color: green;
+    text-decoration: none;
+    padding: 3px;
+    display: block;
+}
+@media screen and (max-width: 699px) and (min-width: 520px) {
+    ul li i a {
+        padding-left: 30px;
+        background-image: url()
+     
+    }
+}
